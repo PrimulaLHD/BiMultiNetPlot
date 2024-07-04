@@ -1,0 +1,27 @@
+{
+    "id": "2F9E749C",
+    "path": "~/dropbox/GitHub/BiMultiNetPlot/R/mat2df.R",
+    "project_path": "R/mat2df.R",
+    "type": "r_source",
+    "hash": "2745426364",
+    "contents": "",
+    "dirty": false,
+    "created": 1720079997431.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,36",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1720097199,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1720097199437,
+    "read_only": false,
+    "read_only_alternatives": []
+}

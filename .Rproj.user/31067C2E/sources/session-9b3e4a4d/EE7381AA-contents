@@ -1,0 +1,17 @@
+Package: BiMultiNetPlot
+Type: Package
+Title: An R package for visualizing ecological bipartite multilayer networks
+Version: 0.1.0
+Author: Hai-Dong Li
+Maintainer: Hai-Dong Li <lihaidong@mail.kib.ac.cn>
+Description: BiMultiNetPlot is an R package for visualizing ecological bipartite multilayer networks. 
+             It is also an open-source, flexible package within the ggplot2 environment, 
+             helping ecologists to better understand the multilayer nature of ecological networks.
+License: GNU General Public License (GPL)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: 
+    bipartite,
+    dplyr,
+    ggplot2
