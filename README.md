@@ -57,6 +57,7 @@ plot_temporal_multilayer(networks = time_nets, interlayer = interlayer,
   scale_fill_manual(values = c("#00AFBB", "#E7B800", "#FC4E07"))
 
 ```
+![temporal multilayer network plot](https://github.com/PrimulaLHD/files/blob/main/tmn_plot.png)
 
 ## Spatial multilayer network       
 
