@@ -52,7 +52,8 @@ interlayer <- dplyr::tibble(layer_from = c(1, 2, 2, 2),
                             weight = c(5, 4, 1, 2))
 
 plot_temporal_multilayer(networks = time_nets, interlayer = interlayer,
-                         sequence = list(c('P1', 'P3', 'P2', 'P4'), c('A3','A5' ,'A1', 'A2', 'A4', 'A6')),
+                         sequence = list(c('P1', 'P3', 'P2', 'P4'),
+                         c('A3','A5' ,'A1', 'A2', 'A4', 'A6')),
                          binary = TRUE,node_size = 4, intra_lcol = "#00AFBB", label = TRUE,
                          inter_lcol = "#E7B800", inter_lty = 5, y_adjust = 2) +
   scale_color_manual(values = c("#00AFBB", "#E7B800")) +
