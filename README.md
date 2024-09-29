@@ -246,4 +246,4 @@ coord_flip(expand = TRUE)
 Feel free to test it. Contributions and suggestions are welcome. You can open an issue or send a pull request.        
 
 # Citation     
-Li Hai-Dong. (2024). BiMultiNetPlot: An R package for visualizing ecological bipartite multilayer networks. *Version 0.1.0. https://github.com/PrimulaLHD/BiMultiNetPlot*   
+Li, H. D. (2024). BiMultiNetPlot: An R package for visualizing ecological bipartite multilayer networks. *bioRxiv, doi:10.1101/2024.09.20.613870*
